@@ -47,7 +47,7 @@ nav img {
      /* NOTE
      The z-index property only applies to positioned elements (i.e., elements with a position value other than static, which is the default). When you use position: relative;, position: absolute;, or position: fixed;, the z-index property controls the stacking order of those elements within their containing block. */
      position: relative;
-     z-index: 1;
+     z-index: 5;
 }
 
 nav button {
