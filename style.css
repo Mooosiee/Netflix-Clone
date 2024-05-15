@@ -12,7 +12,7 @@ body {
 }
 
 .main {
-     background-image: url(Assests/Image/bg.jpg);
+     background-image: url(https://github.com/Mooosiee/Netflix-Clone/blob/main/bg.jpg);
      height: 581px;
      background-size: max(1200px,100vw);
      background-position: center center;
